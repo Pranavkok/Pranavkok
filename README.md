@@ -1,5 +1,14 @@
 <h1 align="center">Hey there! I'm Pranavkok 👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranavkok&label=Profile%20views&color=0e75b6&style=flat" alt="Pranavkok's Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/FbIEm5UJ28sAAAAm/spiderman-tom-holland.webp" width="300" alt="Anime scenery"/>
+</p>
+
+
 <h3 align="center">
   MERN Full Stack Developer | DSA Problem Solver | Aspiring Software Engineer<br/> 
   
