@@ -55,14 +55,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pranavkok/Pranavkok/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🤝 Let’s Connect!
 
 [![Twitter](https://img.shields.io/badge/Twitter-OkProfessor8854-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OkProfessor8854)
