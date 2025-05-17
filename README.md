@@ -50,9 +50,9 @@
 
 ### 🚀 Projects I’m Proud Of
 
-- **Bsustain** - Tracking sustainability with real-time data & gamification 🌱 [Repo](https://github.com/Pranavkok/Bsustain)
-- **Medicine Reminder** - Upload prescriptions and never miss a dose 💊 [Repo](https://github.com/Pranavkok/MedicineReminder)
-- **Fullstack E-Commerce** - Building smooth shopping experiences 🛒 [Repo](https://github.com/Pranavkok/FullstackEcommerce)
+- **Bsustain** - Tracking sustainability with real-time data & gamification 🌱 [Repo](https://github.com/Pranavkok/B-Sustain-Natural-Resource-Tracker-)
+- **Medicine Reminder** - Upload prescriptions and never miss a dose 💊 [Repo](https://github.com/Pranavkok/MedReminder)
+- **Fullstack E-Commerce** - Building smooth shopping experiences 🛒 [Repo](https://github.com/Pranavkok/E-Commerce)
 
 ---
 
