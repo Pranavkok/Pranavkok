@@ -64,18 +64,6 @@
 
 ---
 
-### 🤝 Let’s Connect!
-
-[comment]: <>( [![Twitter](https://img.shields.io/badge/Twitter-OkProfessor8854-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/OkProfessor8854))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Kokate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kokate-08a93a337/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Pranavkok.netlify.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavkok.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-PranavKok15-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PranavKok15/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Pranavktwbp-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pranavktwbp/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-PranavKok-FF5722?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/PranavKok)
-[![Codolio](https://img.shields.io/badge/Codolio-Con-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://codolio.com/profile/Con)
-
----
-
 ### ⚡ Favorite Quote from Anime
 
 > “A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else.”  
